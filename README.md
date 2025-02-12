@@ -36,7 +36,7 @@ La aplicación está diseñada con una interfaz gráfica basada en **Gradio**, l
 
 4. Ejecuta la aplicación:
     ```bash
-    python app.py
+    jupyter notebook UI_gradio.ipynb
     ```
 
 ---
